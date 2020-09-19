@@ -9,3 +9,5 @@ driver.get(url)
 time.sleep(3)
 #終了する
 driver.quit()
+defcon
+iyahho-
